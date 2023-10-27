@@ -1,4 +1,4 @@
-# OpenCV art 1 - Basics
+# OpenCV Arts - Basics
 
 ## Business Objective
 
